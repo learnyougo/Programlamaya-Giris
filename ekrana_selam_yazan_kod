@@ -1,0 +1,5 @@
+#include<stdio.h>
+#define selam(){printf("neber dunyalı");}
+void main(void){
+  selam();
+}
